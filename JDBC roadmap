@@ -1,0 +1,17 @@
+JDBC Roadmap
+============
+
+1. JDBC Connectivity Theory ("JDBC Notes.pptx" pg 1-2)
+
+2. Jdbc Demo Practical Class 1 (JdbcDemoClass.java ) -> single row view
+
+3. Jdbc Demo Practical Class 2 (JdbcDemoClass.java ) -> multiple rows view
+
+4. Jdbc Demo Practical Class 3 (JdbcDemoClass.java ) -> insert rows, PreparedStatement, Try-Catch for Primary Key constraints
+
+5. Class forName in JDBC explained (ClassForNameDemo.java)
+
+6. DAO for JDBC Part 1 (JdbcDaoDemo.java)
+
+7. DAO for JDBC Part 2 (JdbcDaoDemo2.java)
+ 
